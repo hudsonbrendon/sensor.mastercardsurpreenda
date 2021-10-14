@@ -1,0 +1,10 @@
+{
+  "domain": "mastercard",
+  "name": "Matercard Surpreenda",
+  "version": "0.1.0",
+  "documentation": "https://github.com/hudsonbrendon/sensor.mastercardsurpreenda",
+  "dependencies": [],
+  "codeowners": ["@hudsonbrendon"],
+  "requirements": [],
+  "iot_class": "cloud_polling"
+}
