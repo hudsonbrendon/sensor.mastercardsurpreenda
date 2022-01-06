@@ -10,7 +10,7 @@ Componente customizado para obter informações sobre a pontuação do Mastercar
 
 ## HACS
 
-- Tenha o [HACS] (https://hacs.xyz/) instalado, isso permitirá que você atualize facilmente.
+- Tenha o [HACS](https://hacs.xyz/) instalado, isso permitirá que você atualize facilmente.
 - Adicione https://github.com/hudsonbrendon/sensor.mastercardsurpreenda como um repositório personalizado do Tipo: Integração
 - Clique em Instalar na integração "Mastercard Surpreenda".
 - Reinicie Home-Assistant.
